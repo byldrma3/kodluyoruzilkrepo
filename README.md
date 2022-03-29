@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-end Eğitimnde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.hmtl barındırıyor
+Bu repo [Kodluyoruzz](https://www.kodluyoruz.org/) Front-end Eğitimnde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.hmtl barındırıyor
 
 ![alt](https://imgyukle.com/f/2022/03/16/E1QkRH.jpg)
 
